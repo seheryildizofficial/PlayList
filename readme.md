@@ -4,4 +4,6 @@
 •HTML •CSS •JAVASCRİPT
 
 <h3>Screen</h3>
-![](project.gif)# PlayList
+
+![](project.gif)
+
